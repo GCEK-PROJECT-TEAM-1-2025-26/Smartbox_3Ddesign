@@ -16,7 +16,7 @@ The latest iteration of the 3D design has been successfully built. We have signi
 
 ## Design Preview
 
-![Smart EV Box Internal Layout](picture.png)
+![Smart EV Box Internal Layout](Picture.png)
 
 ## Summary Table
 
